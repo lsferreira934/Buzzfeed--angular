@@ -1,27 +1,98 @@
-# AppBuzzfeed
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lsferreira934/Buzzfeed--angular?color=%2304D361&style=for-the-badge">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lsferreira934/Buzzfeed--angular?style=for-the-badge" />
 
-## Development server
+  <a href="https://github.com/lsferreira934/Buzzfeed--angular/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lsferreira934/Buzzfeed--angular?style=for-the-badge" />
+  </a>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
 
-## Code scaffolding
+   <a href="https://github.com/lsferreira934/Buzzfeed--angular/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/BrunoSaibert/ignite-lab-react?style=for-the-badge">
+  </a>
+</p>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h1 align="center">
+   The Blog
+</h1>
 
-## Build
+<h4 align="center">
+	🚧 The Blog Angular 14 🚧
+</h4>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<p align="center">
+  <a href="#--sobre-o-projeto">Sobre</a> •
+  <a href="#-%EF%B8%8F-funcionalidades">Funcionalidades</a> •
+  <a href="#--como-executar-o-projeto">Como executar</a> •
+  <a href="#--tecnologias">Tecnologias</a> •
+  <a href="#--autor">Autor</a>
+</p>
 
-## Running unit tests
+<h1 align="center">
+    <img alt="Ignite-Lab" title="#Ignite-Lab" src="https://github.com/lsferreira934/Buzzfeed--angular/blob/master/src/assets/linkedin.gif" width="200px" />
+</h1>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## [](https://github.com/lsferreira934/Buzzfeed--angular#--sobre-o-projeto) 💻 Sobre o projeto
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Desenvolvi um projeto do zero para praticar e explorar a tecnologia Angular, criando um site simples de blog. Esta iniciativa permitiu aplicar e consolidar conceitos fundamentais do framework em um contexto prático e real.
+---
 
-## Further help
+## [](https://github.com/lsferreira934/Buzzfeed--angular#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- Lista de post e páginação (landpage)
+---
+
+## [](https://github.com/lsferreira934/Buzzfeed--angular#--como-executar-o-projeto) 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+É preciso ter essas programas instalados em sua máquina:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+Editor usado para desenvolvimento da aplicação [VSCode](https://code.visualstudio.com/).
+
+#### 🧭 Iniciando a aplicação
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/lsferreira934/Buzzfeed--angular.git
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd Buzzfeed--angular
+# Instale as dependências
+$ npm install
+# ou
+$ yarn
+# Execute a aplicação
+$ ng serve
+```
+
+---
+
+
+## [](https://github.com/lsferreira934/Buzzfeed--angular#--tecnologias) 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- Angular 14
+- Typescript
+- HTML 
+- CSS
+
+> Veja o arquivo [package.json](https://github.com/lsferreira934/Buzzfeed--angular/blob/master/package.json)
+---
+
+## [](https://github.com/lsferreira934) 👨🏽‍💻 Autor
+<h5 align="center">
+
+ <img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/56802012?v=4" width="120px;" alt="Leandro Ferreira"/>
+ <br />
+ <br />
+
+Feito por <a href="https://github.com/lsferreira934/Buzzfeed--angular">Leandro Ferreira</a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lsferreira934/)](https://www.linkedin.com/in/lsferreira934/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5513997591181&text=Olá!)](https://api.whatsapp.com/send?phone=5513997591181&text=Olá!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:leandrosf934@gmail.com)](mailto:leandrosf934@gmail.com)
+</h5>

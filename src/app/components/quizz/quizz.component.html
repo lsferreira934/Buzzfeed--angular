@@ -1,0 +1,5 @@
+<div class="p-4 w-full sm:w-[80%] sm:m-auto sm:mt-5">
+  <app-title [title]="quizz?.title"></app-title>
+  <app-questionnaire *ngIf="currentQuestion" [questionSelected]="currentQuestion"></app-questionnaire>
+  <app-results *ngIf="!currentQuestion"></app-results>
+</div>

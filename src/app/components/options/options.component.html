@@ -1,0 +1,11 @@
+<button
+  *ngFor="let option of newOptions"
+  (click)="playerChose(option)"
+  class="h-20 bg-white py-2 px-3 rounded-md w-full text-md transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-11 hover:bg-green-700 hover:text-white duration-300"
+  [ngClass]="{
+    '-translate-y-1 scale-11 bg-green-700 text-white text-lg': option.selected,
+    'bg-white': !option.selected
+  }"
+>
+  {{ option.name }}
+</button>

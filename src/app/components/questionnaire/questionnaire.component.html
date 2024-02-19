@@ -1,0 +1,12 @@
+<div
+  class="flex items-center justify-center bg-fuchsia-800 rounded-md h-48 p-6"
+>
+  <h3 class="text-white text-lg">{{ questionSelected?.question }}</h3>
+</div>
+<div>
+  <app-options
+    [options]="questionSelected?.options"
+    class="grid grid-cols-1 justify-center items-center sm:grid-cols-2 gap-4 my-4"
+  ></app-options>
+  <app-navigation></app-navigation>
+</div>

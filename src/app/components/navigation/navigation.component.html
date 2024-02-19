@@ -1,0 +1,15 @@
+<div class="flex justify-center items-center gap-4 mt-3">
+  <button
+    *ngIf="isQuestionStart"
+    (click)="previous()"
+    class="rounded-md border-fuchsia-700 border-2 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-fuchsia-600 hover:border-fuchsia-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-fuchsia-700"
+  >
+    Voltar
+  </button>
+  <button
+    (click)="next()"
+    class="rounded-md bg-fuchsia-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-fuchsia-600 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-fuchsia-700"
+  >
+    Avançar
+  </button>
+</div>
