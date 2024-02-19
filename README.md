@@ -78,7 +78,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Angular 14
 - Typescript
 - HTML 
-- CSS
+- SCSS
+- Tailwind
 
 > Veja o arquivo [package.json](https://github.com/lsferreira934/Buzzfeed--angular/blob/master/package.json)
 ---
