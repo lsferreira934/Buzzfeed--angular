@@ -15,11 +15,11 @@
 </p>
 
 <h1 align="center">
-   The Blog
+   Buzzfeed Quizz
 </h1>
 
 <h4 align="center">
-	🚧 The Blog Angular 14 🚧
+	🚧 Site de quizz simples em Angular e Tailwind 🚧
 </h4>
 
 <p align="center">
@@ -37,12 +37,12 @@
 
 ## [](https://github.com/lsferreira934/Buzzfeed--angular#--sobre-o-projeto) 💻 Sobre o projeto
 
-Desenvolvi um projeto do zero para praticar e explorar a tecnologia Angular, criando um site simples de blog. Esta iniciativa permitiu aplicar e consolidar conceitos fundamentais do framework em um contexto prático e real.
+O Buzzfeed Quizz é um projeto desenvolvido do zero para praticar e explorar a tecnologia Angular, aplicando conceitos de services, componentes, EventEmitter e ciclo de vida, além de utilizar o framework CSS Tailwind. Ele consiste em um site simples de quizzes, onde os usuários podem responder perguntas e receber resultados personalizados com base em suas respostas.
 ---
 
 ## [](https://github.com/lsferreira934/Buzzfeed--angular#-%EF%B8%8F-funcionalidades) ⚙️ Funcionalidades
 
-- Lista de post e páginação (landpage)
+- Perguntas e respostas finais baseadas nas suas respostas.
 ---
 
 ## [](https://github.com/lsferreira934/Buzzfeed--angular#--como-executar-o-projeto) 🚀 Como executar o projeto
